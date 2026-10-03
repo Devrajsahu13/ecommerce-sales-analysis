@@ -1,2 +1,11 @@
-# manufacturing-quality-analysis
-SPC analysis of 1,567 production units: p-charts, I-MR control charts and Pareto analysis to find sensors linked to failures. Python + Power BI.
+# E-Commerce Sales & Delivery Analysis
+
+**Business question:** What drives revenue, and how much do late deliveries hurt customer satisfaction?
+
+🚧 Work in progress — dashboard and findings coming soon.
+
+## Tools
+SQL (MySQL) · Power BI (DAX) · Python (pandas, Jupyter)
+
+## Data
+[Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — ~100,000 orders (2016–2018), 8 linked tables.
