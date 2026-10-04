@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+   # Olist data - download from Kaggle, see data/README.md
+   data/*.csv
