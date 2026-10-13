@@ -6,9 +6,11 @@ Analysis of about 96,000 delivered orders from Olist, a Brazilian online marketp
 
 ## Dashboard
 
-![Sales Overview](dashboard/page1_sales.png)
-![Delivery & Satisfaction](dashboard/page2_delivery.png)
-![Customers & Sellers](dashboard/page3_customers.png)
+   ![Sales Overview](dashboard/page1_sales.png)
+
+   ![Delivery & Satisfaction](dashboard/page2_delivery.png)
+
+   ![Customers & Sellers](dashboard/page3_customers.png)
 
 ## Questions and findings
 
